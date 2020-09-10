@@ -1,0 +1,17 @@
+[{
+	"type": "confirm",
+	"name": "private",
+	"message": "Is this registry private?"
+}, {
+	"type": "input",
+	"name": "author",
+	"message": "Who is the author?"
+}, {
+	"type": "input",
+	"name": "description",
+	"message": "What's the description?"
+}, {
+	"type": "input",
+	"name": "license",
+	"message": "What's the license?"
+}]
